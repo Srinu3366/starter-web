@@ -16,3 +16,5 @@
 
 Another Line
 New Line
+
+Added another line to check branching and automatic merge
