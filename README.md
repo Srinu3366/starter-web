@@ -10,3 +10,5 @@ This is a new line added.
 This is another line.
 
 Added a line under master.
+
+Another line added
